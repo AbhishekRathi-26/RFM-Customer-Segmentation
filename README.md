@@ -6,6 +6,9 @@ This project performs **RFM (Recency, Frequency, Monetary) Analysis** to segment
 
 The objective is to identify high-value customers, inactive customers, loyal customers and customers with future growth potential using Python (Pandas) and Tableau.
 
+## Dashboard Preview
+
+![Dashboard](Images/dashboard.png)
 ---
 
 ## Tools Used
