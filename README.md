@@ -8,7 +8,7 @@ The objective is to identify high-value customers, inactive customers, loyal cus
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 ---
 
 ## Tools Used
